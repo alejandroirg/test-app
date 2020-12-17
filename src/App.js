@@ -39,7 +39,7 @@ function App() {
 
         <div className="App-modal">
 
-          <div className="App-title">Publicar anuncio en seminuevos.com</div>
+          <div className="App-title">Publicar anuncio en seminuevos.com 2</div>
 
           <form className="App-form">
 
